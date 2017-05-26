@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.verveit.data.UserDTO;
+import com.verveit.service.UserDTO;
 import com.verveit.service.UserService;
 import com.verveit.springdata.dao.UserRepoJPA;
 import com.verveit.springdata.domain.UserJPA;

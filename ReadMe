@@ -1,0 +1,5 @@
+This is an example of Spring Boot.
+==================================
+Restful Web Application using SpringData with JPA and H2 embedded db. 
+Spring boot feature allows the resources/data.sql to be run on startup, this creates the DB table and populates it with data
+ 
